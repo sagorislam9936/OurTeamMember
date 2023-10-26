@@ -1,0 +1,30 @@
+.roundedCircle {
+  border-radius: 30px;
+  box-shadow: 1px 1px 8px 2px;
+}
+.roundedCircle:hover {
+  color: rgb(13, 197, 13);
+
+  box-shadow: 1px 1px 8px 2px rgb(236, 21, 21);
+}
+.btn {
+  font-size: 15px;
+  border-radius: 30px;
+}
+
+
+.btn:hover {
+  background-color: rgb(222, 35, 22);
+  color: rgb(26, 24, 24);
+}
+.btn2{
+  font-size: 18px;
+  border-radius: 30px;
+  background-color: rgb(202, 122, 25);
+  color: red;
+}
+
+.btn2:hover {
+  background-color: rgb(222, 35, 22);
+  color: rgb(26, 24, 24);
+}
